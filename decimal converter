@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+/*<This header is supposed to include all header files of c++>#include<bits/stdc++.h>*/
 
 int val(char c) 
 { 
